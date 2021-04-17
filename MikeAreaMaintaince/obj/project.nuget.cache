@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5cWVO7atWT0IWgVp2YAbOksqnBVp3vJlump0f2dze+1r7NfhrJi0VA85eOdI7g8WCiYStDpbkebgUQyuh6iIEg==",
+  "success": true,
+  "projectFilePath": "F:\\Github\\MikeAreaMaintaince\\MikeAreaMaintaince\\MikeAreaMaintaince.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MUKESH KUMAR JHA\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

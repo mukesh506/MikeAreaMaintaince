@@ -1,0 +1,3 @@
+F:\Github\MikeAreaMaintaince\MikeAreaMaintaince\obj\Debug\netcoreapp3.1\MikeAreaMaintaince.csprojAssemblyReference.cache
+F:\Github\MikeAreaMaintaince\MikeAreaMaintaince\obj\Debug\netcoreapp3.1\MikeAreaMaintaince.AssemblyInfoInputs.cache
+F:\Github\MikeAreaMaintaince\MikeAreaMaintaince\obj\Debug\netcoreapp3.1\MikeAreaMaintaince.AssemblyInfo.cs
